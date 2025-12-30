@@ -1,0 +1,28 @@
+{
+  "albumTitle": "City of Trade",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Fragments from the lagoon—quiet crossings, domes in soft light, and corridors of water."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/italy-venice/20250608_venice-arch-color-building.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-boat-arrival.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-boat-haggling.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-domes.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-golden-hour-dome.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-landscape-buildings.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-narrow-window-out.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-waterway-alley.jpg", "caption": "" },
+        { "src": "images/italy-venice/DSCF0218-venice-realto_bridge.JPG", "caption": "" },
+        { "src": "images/italy-venice/DSCF0265_venice_distant_domes_landscape.JPG", "caption": "" },
+        { "src": "images/italy-venice/DSCF0282_venice_domes_backlit.JPG", "caption": "" },
+        { "src": "images/italy-venice/DSCF0294_venice_academia_bridge.JPG", "caption": "" },
+        { "src": "images/italy-venice/venice-canal-dome-open.JPG", "caption": "" }
+      ]
+    }
+  ]
+}

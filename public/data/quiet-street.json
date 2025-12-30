@@ -1,0 +1,40 @@
+{
+  "albumTitle": "Quiet Street Mornings",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Notes from walking before the city wakes. The light is muted, edges soften, and every surface feels newly washed."
+    },
+    {
+      "type": "photo",
+      "src": "images/quiet-street/quiet-1.svg",
+      "caption": "First light crossing an empty avenue."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/quiet-street/quiet-2.svg",
+          "caption": "Crosswalk lines stretch into shadow."
+        },
+        {
+          "src": "images/quiet-street/quiet-3.svg",
+          "caption": "Closed storefront catching the cool blue hour."
+        },
+        {
+          "src": "images/quiet-street/quiet-4.svg",
+          "caption": "Window plants behind fogged glass."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Silence lasts only a few minutes. Delivery trucks arrive, but I save these softer frames."
+    },
+    {
+      "type": "photo",
+      "src": "images/quiet-street/quiet-5.svg",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "albumTitle": "Tropical Australia",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Cherry blossom came late this year. Tourists, who had bagged expensively hot accomodation months in advance, squinted at the bare branches. The tourists went home, and two weeks later blossoms sprang to life."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/australia-cairns/20220531_daytime-palms.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/australia-cairns/20220601_palm-canopy.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "As night falls the beach is lined by shadowed trees. Periodically groups quietly emerge to set up sunset picnics."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/australia-cairns/20220531_red-sunset-palms.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/australia-cairns/20220531_pale-sunset.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/australia-cairns/20220531_yellow-sunset.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

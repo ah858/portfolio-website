@@ -1,0 +1,26 @@
+{
+  "albumTitle": "Fuji-san Foothills",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "My second weekend trip in Japan was a Fuji bullet hike. We had to go before the short summer hiking window closed. Like most tall landmarks, the best views of Fuji are from far away."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/japan-fuji/fuji-yellow-tree.jpeg",
+          "caption": "Crosswalk lines stretch into shadow."
+        },
+        {
+          "src": "images/japan-fuji/fuji-rollercoaster.jpeg",
+          "caption": "Closed storefront catching the cool blue hour."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "At the top of Fuji we took shelter from the biting winds inside a small wooden shack. I rested the responsibility of warming my whole body up on a small bowk of miso. We weren't the only ones. The server ushered some locals to sit next to us. He directed them vaguely in our direction and warmly whispered for them to sit next to gaijan-sama."
+    }
+  ]
+}

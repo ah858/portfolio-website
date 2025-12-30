@@ -1,0 +1,50 @@
+{
+  "albumTitle": "A Moment to Pause",
+  "blocks": [
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/japan-temple/20230903_nikko-latern.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240316_hakone-shrine.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240325_arashiyama-stone.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240325_kyoto-zen-garden.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240325_yastaka-temple.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240713_lantern-gap.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240713_latern-wall.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240715_hotel-temple-fog.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20240715_hotel-temple-fog2.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan-temple/20241116_redleaf-hike.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

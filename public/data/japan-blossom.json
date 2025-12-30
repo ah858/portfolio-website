@@ -1,0 +1,30 @@
+{
+  "albumTitle": "Japan in Blossom",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Cherry blossom came late this year. Tourists, who had bagged expensively hot accomodation months in advance, squinted at the bare branches. The tourists went home, and two weeks later blossoms sprang to life."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/japan/azabudai-blossom.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan/20240317_hakone-plum.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan/20240323_kyoto-temple-blossom.jpg",
+          "caption": ""
+        },
+        {
+          "src": "images/japan/tokyo-blossom.jpeg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

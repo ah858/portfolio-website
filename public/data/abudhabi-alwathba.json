@@ -1,0 +1,47 @@
+{
+  "albumTitle": "Desert, Sand, Camels",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "They say deserts are harsh. Not this one."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/abudhabi-alwathba/camel-welcome.JPG",
+          "caption": "Camels nestled against the sunrise."
+        },
+        {
+          "src": "images/abudhabi-alwathba/camel-hello.JPG",
+          "caption": "Ferrari lifts his head to great us."
+        },
+        {
+          "src": "images/abudhabi-alwathba/camel-untie.JPG",
+          "caption": "Harness taught, saddles ready."
+        },
+        {
+          "src": "images/abudhabi-alwathba/camel-buddies.JPG",
+          "caption": "Silent hydration."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "The dark desert is gentle and soft. Sand is forgiving on the feat; dunes gently sweep the landscape; everyone nestles against the warm air."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/abudhabi-alwathba/night-lights.JPG",
+          "caption": "Al-Wathba: an oasis of light nestled in the night."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Out here, luxury isn’t marble; it’s silence you can hear, footprints gone with each step."
+    }
+  ]
+}
