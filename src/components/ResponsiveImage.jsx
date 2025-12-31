@@ -4,12 +4,12 @@ const withBase = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')
 
 // Base set for inline photos (lighter).
 const responsiveImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1400;2000&format=webp;jpg&rotate=auto&as=picture'
+  query: '?w=480;900;1400&format=webp;jpg&as=picture&imagetools'
 });
 
 // Posters can carry a higher-res option to stay crisp on large/HiDPI screens.
 const posterImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1400;2000&format=webp;jpg&rotate=auto&as=picture'
+  query: '?w=480;900;1400;2000&format=webp;jpg&as=picture&imagetools'
 });
 
 const normalizeKey = (src) => {
@@ -19,15 +19,39 @@ const normalizeKey = (src) => {
 
 // Tiny placeholders for progressive loading.
 const placeholderImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=240&format=webp&rotate=auto&as=src'
+  query: '?w=240&format=webp&as=src&imagetools'
 });
+
+const normalizeSources = (sources) => {
+  if (Array.isArray(sources)) {
+    return sources;
+  }
+
+  if (sources && typeof sources === 'object') {
+    return Object.entries(sources).map(([format, srcset]) => ({
+      type: `image/${format === 'jpg' ? 'jpeg' : format}`,
+      srcset
+    }));
+  }
+
+  return null;
+};
 
 const normalizeSet = (value) => {
   const candidate = value?.default ?? value;
-  if (candidate && Array.isArray(candidate.sources) && candidate.img) {
-    return candidate;
+  if (!candidate || !candidate.sources || !candidate.img) {
+    return null;
   }
-  return null;
+
+  const sources = normalizeSources(candidate.sources);
+  const width = candidate.img.width ?? candidate.img.w;
+  const height = candidate.img.height ?? candidate.img.h;
+
+  if (!sources?.length || !candidate.img.src || !width || !height) {
+    return null;
+  }
+
+  return { sources, img: { ...candidate.img, width, height } };
 };
 
 const ResponsiveImage = ({

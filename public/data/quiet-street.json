@@ -3,7 +3,7 @@
   "blocks": [
     {
       "type": "text",
-      "content": "Notes from walking before the city wakes. The light is muted, edges soften, and every surface feels newly washed."
+      "content": "Weekends in Tokyo."
     },
     {
       "type": "photo",
@@ -26,15 +26,6 @@
           "caption": "Window plants behind fogged glass."
         }
       ]
-    },
-    {
-      "type": "text",
-      "content": "Silence lasts only a few minutes. Delivery trucks arrive, but I save these softer frames."
-    },
-    {
-      "type": "photo",
-      "src": "images/quiet-street/quiet-5.svg",
-      "caption": ""
     }
   ]
 }
