@@ -4,12 +4,12 @@ const withBase = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')
 
 // Base set for inline photos (lighter).
 const responsiveImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1400&format=webp;jpg&as=picture&imagetools'
+  query: '?w=480;900;1400&format=webp;jpg&rotate=auto&as=picture&imagetools'
 });
 
 // Posters can carry a higher-res option to stay crisp on large/HiDPI screens.
 const posterImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1400;2000&format=webp;jpg&as=picture&imagetools'
+  query: '?w=480;900;1400;2000&format=webp;jpg&rotate=auto&as=picture&imagetools'
 });
 
 const normalizeKey = (src) => {
@@ -19,7 +19,7 @@ const normalizeKey = (src) => {
 
 // Tiny placeholders for progressive loading.
 const placeholderImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=240&format=webp&as=src&imagetools'
+  query: '?w=240&format=webp&rotate=auto&as=src&imagetools'
 });
 
 const normalizeSources = (sources) => {

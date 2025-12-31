@@ -219,12 +219,13 @@ a {
 .cluster-card.single-cluster {
   grid-template-columns: 1fr;
   justify-items: center;
+  max-width: min(95vw, 1400px);
 }
 
 .cluster-card.single-cluster .photo-card.nested img {
   width: auto !important;
   height: auto !important;
-  max-width: clamp(320px, 90vw, 1100px);
+  max-width: clamp(360px, 92vw, 1400px);
   max-height: clamp(420px, 85vh, 900px);
   object-fit: contain;
   display: block;
