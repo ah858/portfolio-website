@@ -231,6 +231,13 @@ a {
   margin: 0 auto;
 }
 
+.photo-placeholder {
+  width: 100%;
+  padding-top: 65%;
+  background: #111;
+  border: 1px solid #1d1d1d;
+}
+
 .clickable {
   cursor: zoom-in;
 }

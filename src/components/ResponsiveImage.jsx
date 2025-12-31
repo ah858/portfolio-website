@@ -4,12 +4,12 @@ const withBase = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')
 
 // Base set for inline photos (lighter).
 const responsiveImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1200&format=webp;jpg&rotate=auto&as=picture'
+  query: '?w=480;900;1400;2000&format=webp;jpg&rotate=auto&as=picture'
 });
 
 // Posters can carry a higher-res option to stay crisp on large/HiDPI screens.
 const posterImages = import.meta.glob('../assets/images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}', {
-  query: '?w=480;900;1400&format=webp;jpg&rotate=auto&as=picture'
+  query: '?w=480;900;1400;2000&format=webp;jpg&rotate=auto&as=picture'
 });
 
 const normalizeKey = (src) => {
@@ -96,16 +96,7 @@ const ResponsiveImage = ({
   }
 
   // Fallback for formats not run through imagetools (e.g., SVG) or missing imports/broken sets.
-  return (
-    <img
-      className={className}
-      src={withBase(src)}
-      loading={loading}
-      alt={alt}
-      onLoad={onLoad}
-      style={{ ...imgStyle, ...backgroundStyle }}
-    />
-  );
+  return <div className={`photo-placeholder ${className || ''}`} aria-hidden="true" />;
 };
 
 export default ResponsiveImage;
