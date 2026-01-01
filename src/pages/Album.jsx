@@ -125,6 +125,15 @@ const Album = () => {
       );
     }
 
+    if (block.type === 'fieldnotes') {
+      return (
+        <div className="masonry-item fieldnotes full-span" key={index}>
+          <div className="fieldnotes-label">Field notes</div>
+          <p>{block.content}</p>
+        </div>
+      );
+    }
+
     return null;
   };
 

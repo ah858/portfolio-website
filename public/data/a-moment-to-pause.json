@@ -2,49 +2,84 @@
   "albumTitle": "A Moment to Pause",
   "blocks": [
     {
+      "type": "text",
+      "content": "Paper lanterns have a special place in my heart. They pull me into a world far from the England I grew up in: temples in the mountains, dragons on the eaves, stories I only knew from books. A lone lantern is a beacon on the path of adventure. A doorway framed by them is an invitation to explore deeper."
+    },
+    {
       "type": "photoCluster",
       "photos": [
         {
           "src": "images/japan-temple/20230903_nikko-latern.jpeg",
-          "caption": ""
+          "caption": "An oversized latern in Nikko"
         },
         {
           "src": "images/japan-temple/20240316_hakone-shrine.jpeg",
-          "caption": ""
-        },
-        {
-          "src": "images/japan-temple/20240325_arashiyama-stone.jpeg",
-          "caption": ""
-        },
-        {
-          "src": "images/japan-temple/20240325_kyoto-zen-garden.jpeg",
-          "caption": ""
+          "caption": "Triumphent lady after queing an hour for this Hakone photo"
         },
         {
           "src": "images/japan-temple/20240325_yastaka-temple.jpeg",
-          "caption": ""
+          "caption": "Night walk in Kyoto"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Rocks and Zen gardens sit beside lanterns in my heart. A garden rock draws beauty and sculpture from something otherwise overlooked. The gardens are restrained, delicate, and repetitive. Without distractions to hold onto or markers of time, I sit there and lose myself."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/japan-temple/20240325_arashiyama-stone.jpeg",
+          "caption": "First one to arrive at Tenryu‑ji temple gardens"
         },
         {
+          "src": "images/japan-temple/20240325_kyoto-zen-garden.jpeg",
+          "caption": "Leaving thoughts at the door before sitting at Daitoku‑ji temple "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Tokyo always has a matsuri somewhere. One street is silent and deserted, then one block over a matsuri is flooding a street with so much life you’d assume it’s the centre of the world. In summer we went to the Yasukuni‑jinja matsuri. The entryway for half a kilometre was lined with thousands of large yellow lanterns, two imposing walls framing the shrine. Tokyo summer is punishingly hot and humid. Sweat ran down my neck and turned my t‑shirt light blue. The wet patches shimmered black under the yellow lantern light."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
           "src": "images/japan-temple/20240713_lantern-gap.jpg",
-          "caption": ""
+          "caption": "Latern framed by laterns"
         },
         {
           "src": "images/japan-temple/20240713_latern-wall.jpg",
-          "caption": ""
-        },
+          "caption": "A cliff of laterns at Yasukuni-jinja matsuri"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Some temples were destinations; others were stumbled upon. Day trips were punctuated with fleeting glimpses of gates, roofs, and paper lanterns nestled among gardens and rocks."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
         {
           "src": "images/japan-temple/20240715_hotel-temple-fog.jpg",
-          "caption": ""
+          "caption": "Hotel Chinzanso cloud show"
         },
         {
           "src": "images/japan-temple/20240715_hotel-temple-fog2.jpg",
-          "caption": ""
+          "caption": "More clouds at Hotel Chinzanso"
         },
         {
           "src": "images/japan-temple/20241116_redleaf-hike.jpg",
-          "caption": ""
+          "caption": "Trail running with the Crossfit team"
         }
       ]
+    },
+    {
+      "type": "fieldnotes",
+      "content": "Not pictured: wooden steps where I’d balance on one foot to slip off shoes before entering; devoted locals queuing for temple stamps; me devotedly buying mochi and dango bought with crumpled yen from my back pocket."
     }
   ]
 }

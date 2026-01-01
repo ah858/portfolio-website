@@ -3,24 +3,49 @@
   "blocks": [
     {
       "type": "text",
-      "content": "My second weekend trip in Japan was a Fuji bullet hike. We had to go before the short summer hiking window closed. Like most tall landmarks, the best views of Fuji are from far away."
+      "content": "My second weekend trip in Japan was a Fuji bullet hike. We had to go before the short summer window closed. Like most tall landmarks, the best views of Fuji are from a distance."
     },
     {
       "type": "photoCluster",
       "photos": [
         {
           "src": "images/japan-fuji/fuji-yellow-tree.jpeg",
-          "caption": "Crosswalk lines stretch into shadow."
+          "caption": "Finding the way to hotel in Kawaguchiko"
         },
         {
           "src": "images/japan-fuji/fuji-rollercoaster.jpeg",
-          "caption": "Closed storefront catching the cool blue hour."
+          "caption": "FujiQ highlands from the coach home"
         }
       ]
     },
     {
       "type": "text",
-      "content": "At the top of Fuji we took shelter from the biting winds inside a small wooden shack. Hikers huddled at the top desperately clinging onto bowls of miso soup for warmth. The server ushered some locals to sit next to us. He directed them vaguely in our direction and whispered for them to sit next to gaijan-sama."
+      "content": "At the summit we took shelter from the wind inside a small wooden shack. Hikers huddled over bowls of miso soup for warmth. A server guided a few locals to sit beside us, leaned in, and quietly asked them to take the seats next to the gaijin-sama."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        {
+          "src": "images/japan-fuji/20240106_fuji-buss.jpeg",
+          "caption": "Most Japan weekends ended up with this return view to Tokyo"
+        },
+        {
+          "src": "images/japan-fuji/20240316_hakone-fuji-lake.jpeg",
+          "caption": "Tokyo's snow dominates the view at Hakone"
+        },
+        {
+          "src": "images/japan-fuji/20240317_hakone-cable-car.jpeg",
+          "caption": "Into the clouds at Hakone"
+        },
+        {
+          "src": "images/japan-fuji/20231124_fuji-place-window.jpeg",
+          "caption": "Tokyo landing, one of my earliest shots in Japan"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Winter skies around Tokyo are the clearest. Fuji dominates the landscape because you see everywhere, and yet it’s so enormous it fades into the background like a fixed landmark. I started photographing it every time it appeared. My camera roll is full of Fuji."
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "albumTitle": "Sapporo Whiteout",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "At school I didn’t care for winter. We spent many winters competing at regattas, so most of my memories are of toes cut by cold air and fingers I couldn’t feel. Clothes damp, lips immobile, everything dark."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/japan-snow/20240210_hokkaido-car.jpeg", "caption": "Snow piles in so quickly it no longer makes sense to shovel out cars" },
+        { "src": "images/japan-snow/20240210_hokkaido-lawson.jpeg", "caption": "Saporro Lawson, I bought some ume onigiris" },
+        { "src": "images/japan-snow/20240210_hokkaido-yellow.jpeg", "caption": "Gemometric buildings geometric snow" },
+        { "src": "images/japan-snow/20240211_hokkaido-road.jpeg", "caption": "This is probably rushour in Saporro" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Despite this, winter became my favourite Japanese season. The uniform snow and low, bright winter sun give everything a sharp, ethereal quality. Pale blue skies became a canvas, turning every view into a framed composition."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/japan-snow/20240211_otaru-steeproof.jpeg", "caption": "Snow trenches in Otaru" },
+        { "src": "images/japan-snow/20240211_otaru-yellow.jpeg", "caption": "Everything becomes a canvas against snow and sky" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "We went up one weekend for the Hokkaido snow festival. The snow was deep and the streets quiet. Everything slowed down under the weight of the snow. Silent workers carefully cut the outlines of each road so the snow curb became a perfect straight line. The lines were too sharp, too clean leaving the city feeling like an under‑rendered video game. We detoured to Otaru. It felt like the end of the world: everything white, footpaths walled in by trenches of snow, the ocean rough like a clear marker that we’d hit the edge of the map."
+    },
+    {
+      "type": "fieldnotes",
+      "content": "Not pictured: snowball fights and rugby-tackling each other into thick verges of snow outside the Sapporo fish market; hopping barriers to go off-piste in Noboribetsu, into the snowy forest, then throwing ice into the hot springs; eating uni so fresh it tasted like ice cream; staying in a Saporro apartment that looked like it hadn't been renovated or maybe even opened since 1960."
+    }
+  ]
+}

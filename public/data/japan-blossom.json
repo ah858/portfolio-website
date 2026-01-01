@@ -3,28 +3,41 @@
   "blocks": [
     {
       "type": "text",
-      "content": "Cherry blossom came late this year. Tourists, who had bagged expensively hot accomodation months in advance, squinted at the bare branches. The tourists went home, and two weeks later blossoms sprang to life."
+      "content": "Cherry blossom ran late this year. Tourists checked into absurdly expensive rooms and stared at bare branches and rain. Two weeks later, after everyone flew home, the blossoms sprang to life under unrelenting sun."
     },
     {
       "type": "photoCluster",
       "photos": [
         {
           "src": "images/japan/azabudai-blossom.jpeg",
-          "caption": ""
+          "caption": "Early blossoms perfectly hit the opening of Azbudai Hills"
         },
         {
           "src": "images/japan/20240317_hakone-plum.jpeg",
-          "caption": ""
-        },
+          "caption": "A lone plum in Hakone's Open Air Musem"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "There's a meme about Japan bragging about four seasons. I always thought Tokyo had five, with typhoon season wedged in after summer. It turns out that the old calendar had 72. This is obvious at blossom time: a domino of trees bloom from plum to the late cherry trees. We started planning weekends around bloom charts like train timetables."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
         {
           "src": "images/japan/20240323_kyoto-temple-blossom.jpg",
-          "caption": ""
+          "caption": "Early cherries in Kyoto"
         },
         {
           "src": "images/japan/tokyo-blossom.jpeg",
-          "caption": ""
+          "caption": "A short spring time walk from my apartment"
         }
       ]
+    },
+    {
+      "type": "fieldnotes",
+      "content": "Cherry blossoms were difficult to photograph. The flowers are small and white, so highlights blow out fast and clusters lose definition. Plum blossoms were easier because the pink holds detail, while with cherry I leaned on close, macro frames. The Hakone shot is inspired by LA photographer @filmwavecherry's deeply saturated work."
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "albumTitle": "Neon nights",
+  "blocks": [
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/tokyo-nights/20240227_shibuya-night.jpeg", "caption": "" },
+        { "src": "images/tokyo-nights/20240227_shibuya-neon.jpeg", "caption": "" },
+        { "src": "images/tokyo-nights/20240305_fuji-neon.jpeg", "caption": "" },
+        { "src": "images/tokyo-nights/20240629_yurakucho-latern.jpg", "caption": "" },
+        { "src": "images/tokyo-nights/20240709_nihonbashi-night.jpg", "caption": "" }
+      ]
+    }
+  ]
+}

@@ -10,9 +10,24 @@
     "posterSrc": "images/japan-fuji/fuji-yellow-tree.jpeg"
   },
   {
+    "slug": "japan-snow",
+    "title": "Sapporo Whiteout",
+    "posterSrc": "images/japan-snow/20240210_hokkaido-lawson.jpeg"
+  },
+  {
+    "slug": "a-moment-to-pause",
+    "title": "A Moment to Pause",
+    "posterSrc": "images/japan-temple/20240325_yastaka-temple.jpeg"
+  },
+  {
     "slug": "tokyo-random",
     "title": "Tokyo Weekends",
     "posterSrc": "images/tokyo-random/20240907_tokyo-wework.jpg"
+  },
+  {
+    "slug": "tokyo-nights",
+    "title": "Neon nights",
+    "posterSrc": "images/tokyo-nights/20240227_shibuya-night.jpeg"
   },
   {
     "slug": "abudhabi-alwathba",
@@ -35,8 +50,8 @@
     "posterSrc": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg"
   },
   {
-    "slug": "a-moment-to-pause",
-    "title": "A Moment to Pause",
-    "posterSrc": "images/japan-temple/20240325_yastaka-temple.jpeg"
+    "slug": "scratch-notes",
+    "title": "Unfinished thoughts",
+    "posterSrc": ""
   }
 ]
