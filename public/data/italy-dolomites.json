@@ -2,30 +2,42 @@
   "albumTitle": "Alpine switchbacks",
   "blocks": [
     {
+      "type": "text",
+      "content": "The mountains came in fragments shrouded under cloud and behind hairpin bends. It made the landscape feel like a sequence of reveals instead of one big view."
+    },
+    {
       "type": "photoCluster",
       "photos": [
-        { "src": "images/italy-dolomites/20250605_dolomites-pastel.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolimites-cablecar.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-cable-car-hut-door.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-dramatic-cycle.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-dramatic-road.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-cable-view.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-terrace-bottom.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-lunch.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "We drove slowly, holding up traffic while locals zipped past. Views peeled open around each turn. A cable car out of Bolzano lifted us through the thick fog and up to green meadows and small vineyards that made no sense up the steep mountain cliffs. Another cable car took us silently through the forest up summer ski slopes. It was strange to be floating without skis."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
         { "src": "images/italy-dolomites/20250606_dolomites-drive.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-forest-mountain.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-green-meadow.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-motorbike-stop.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-motorbikes.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-rolling-hills.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/20250606_dolomites-switchbacks.jpg", "caption": "" },
         { "src": "images/italy-dolomites/20250606_dolomites-terrace-mountain.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-cable-car-hut-door.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "We watched the sunset from the hotel's \"bio pool\" (read: pond). Cold air rolled down from the mountains. A German woman gave us directions; when I tried to thank her in German, she cut me off with a clipped “goodbye.” It all felt very Italian anyway, much like being inside a film."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/italy-dolomites/20250606_dolomites-dramatic-road.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-rolling-hills.jpg", "caption": "" },
         { "src": "images/italy-dolomites/20250606_dolomites-vineyard.jpg", "caption": "" },
         { "src": "images/italy-dolomites/20250607_dolomites-window.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-ampezzo.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-cable-top.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-cable-view.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-inside-cable.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-lunch.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-terrace-bottom.jpg", "caption": "" },
-        { "src": "images/italy-dolomites/dolomites-terrace-snow.jpg", "caption": "" }
+        { "src": "images/italy-dolomites/20250606_dolomites-dramatic-cycle.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-motorbikes.jpg", "caption": "" }
       ]
     }
   ]

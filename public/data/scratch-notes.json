@@ -10,6 +10,21 @@
         { "src": "images/japan-snow/20241026_nagano-crab.jpg", "caption": "" },
         { "src": "images/japan-snow/20241110_kamikochi-frost.jpg", "caption": "" }
       ]
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/italy-dolomites/20250605_dolomites-pastel.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-terrace-snow.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-green-meadow.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-inside-cable.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-cable-top.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-motorbike-stop.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolimites-cablecar.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/dolomites-ampezzo.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-switchbacks.jpg", "caption": "" },
+        { "src": "images/italy-dolomites/20250606_dolomites-forest-mountain.jpg", "caption": "" }
+      ]
     }
   ]
 }
