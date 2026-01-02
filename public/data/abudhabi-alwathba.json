@@ -3,7 +3,7 @@
   "blocks": [
     {
       "type": "text",
-      "content": "The dset is much softer than I expected. Sand is forgiving on the feat; dunes gently sweep the landscape; the nights are gentle and warm."
+      "content": "Mounting a camel is a violent task. Ahmed, the camel handler, tells us to grip tightly onto the saddle. He starts a countdown, the camel lurches forward and I'm tilting back. Suddenly I'm thrown forward as it dips its head and extends its hind legs. Then we are up. The camel lightly sways as it gets used to standing. The damp sand, from the morning condensation, rustles underfoot as it adjusts itself."
     },
     {
       "type": "photoCluster",
@@ -18,7 +18,7 @@
         },
         {
           "src": "images/abudhabi-alwathba/camel-untie.jpg",
-          "caption": "Harness taught, saddles ready."
+          "caption": "Job done, saddles off."
         },
         {
           "src": "images/abudhabi-alwathba/camel-buddies.jpg",
@@ -28,7 +28,7 @@
     },
     {
       "type": "text",
-      "content": "Laterns cast pools of light that break up the dunes.."
+      "content": "The desert carries an intense darkness at night. There are few lights in the landscape beyond the occasional oil equipment."
     },
     {
       "type": "photoCluster",
@@ -38,6 +38,10 @@
           "caption": "Al-Wathba: an oasis of light nestled in the night."
         }
       ]
+    },
+    {
+      "type": "fieldnotes",
+      "content": "A spa hotel replaced camping on dunes for once. The taxi missed the road and we drifted in on sand tracks. Breakfast came with hooded falcons and a suspicious owl that scanned the whole room with wide eyes."
     }
   ]
 }

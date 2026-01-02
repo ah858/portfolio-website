@@ -81,6 +81,19 @@ a {
   gap: 12px;
 }
 
+.album-section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.album-section-title {
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 11px;
+  color: #8a8a8a;
+}
+
 .album-grid {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
@@ -130,6 +143,13 @@ a {
 .album-tile:hover .album-title {
   opacity: 1;
   transform: translateY(0);
+}
+
+@media (max-width: 720px) {
+  .album-title {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .album .page-title {
@@ -252,6 +272,41 @@ a {
 
 .fieldnotes p {
   margin: 0;
+}
+
+.album-country-nav {
+  margin: 28px auto 0;
+  max-width: 760px;
+  width: 100%;
+  color: #8a8a8a;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.album-country-title {
+  color: #f2f2f2;
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.album-country-nav {
+  border-top: 1px solid #1e1e1e;
+  padding-top: 12px;
+}
+
+.album-country-links a {
+  color: #8a8a8a;
+  text-decoration: none;
+}
+
+.album-country-links a:hover {
+  color: #cfcfcf;
+}
+
+.album-country-separator {
+  color: #4b4b4b;
 }
 
 .photo-placeholder {

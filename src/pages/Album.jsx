@@ -1,5 +1,5 @@
 import { useEffect, useState, useCallback } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import ResponsiveImage from '../components/ResponsiveImage';
 import NotFound from './NotFound';
 
@@ -10,6 +10,7 @@ const Album = () => {
   const [album, setAlbum] = useState(null);
   const [status, setStatus] = useState('loading');
   const [lightbox, setLightbox] = useState(null);
+  const [albumIndex, setAlbumIndex] = useState([]);
 
   useEffect(() => {
     const loadAlbum = async () => {
@@ -27,6 +28,21 @@ const Album = () => {
 
     loadAlbum();
   }, [slug]);
+
+  useEffect(() => {
+    const loadAlbumIndex = async () => {
+      try {
+        const response = await fetch(withBase('data/albums.json'));
+        if (!response.ok) throw new Error('Unable to load album index.');
+        const payload = await response.json();
+        setAlbumIndex(payload);
+      } catch (error) {
+        console.error(error);
+      }
+    };
+
+    loadAlbumIndex();
+  }, []);
 
   const openLightbox = useCallback((src, caption) => {
     setLightbox({ src, caption });
@@ -144,6 +160,27 @@ const Album = () => {
         <h1 className="page-title">{album.albumTitle}</h1>
       </div>
       <div className="masonry">{album.blocks?.map(renderBlock)}</div>
+      {(() => {
+        const current = albumIndex.find((entry) => entry.slug === slug);
+        if (!current?.country) return null;
+
+        const countryAlbums = albumIndex.filter((entry) => entry.country === current.country);
+        return (
+          <div className="album-country-nav">
+            <div className="album-country-title">{current.country}</div>
+            <div className="album-country-links">
+              {countryAlbums.map((entry, index) => (
+                <span key={entry.slug}>
+                  <Link to={`/albums/${entry.slug}`}>{entry.title || entry.slug}</Link>
+                  {index < countryAlbums.length - 1 ? (
+                    <span className="album-country-separator"> / </span>
+                  ) : null}
+                </span>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
       {lightbox ? (
         <div className="lightbox" onClick={closeLightbox} role="presentation">
           <div

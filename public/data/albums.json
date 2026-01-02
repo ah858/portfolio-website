@@ -2,56 +2,67 @@
   {
     "slug": "japan-blossom",
     "title": "Japan in Blossom",
-    "posterSrc": "images/japan/tokyo-blossom.jpeg"
+    "posterSrc": "images/japan/tokyo-blossom.jpeg",
+    "country": "Japan"
   },
   {
     "slug": "japan-fuji",
     "title": "Fuji-san Foothills",
-    "posterSrc": "images/japan-fuji/fuji-yellow-tree.jpeg"
+    "posterSrc": "images/japan-fuji/fuji-yellow-tree.jpeg",
+    "country": "Japan"
   },
   {
     "slug": "japan-snow",
     "title": "Sapporo Whiteout",
-    "posterSrc": "images/japan-snow/20240210_hokkaido-lawson.jpeg"
+    "posterSrc": "images/japan-snow/20240210_hokkaido-lawson.jpeg",
+    "country": "Japan"
   },
   {
     "slug": "a-moment-to-pause",
     "title": "A Moment to Pause",
-    "posterSrc": "images/japan-temple/20240325_yastaka-temple.jpeg"
+    "posterSrc": "images/japan-temple/20240325_yastaka-temple.jpeg",
+    "country": "Japan"
   },
   {
     "slug": "tokyo-random",
     "title": "Tokyo Weekends",
-    "posterSrc": "images/tokyo-random/20240907_tokyo-wework.jpg"
+    "posterSrc": "images/tokyo-random/20240907_tokyo-wework.jpg",
+    "country": "Japan"
   },
   {
     "slug": "tokyo-nights",
-    "title": "Neon nights",
-    "posterSrc": "images/tokyo-nights/20240227_shibuya-night.jpeg"
+    "title": "Neon Nights",
+    "posterSrc": "images/tokyo-nights/20240227_shibuya-night.jpeg",
+    "country": "Japan"
   },
   {
     "slug": "abudhabi-alwathba",
     "title": "Desert, Sand, Camels",
-    "posterSrc": "images/abudhabi-alwathba/camel-face-fence.jpg"
+    "posterSrc": "images/abudhabi-alwathba/camel-face-fence.jpg",
+    "country": "UAE"
   },
   {
     "slug": "australia-cairns",
-    "title": "Tropical Australia",
-    "posterSrc": "images/australia-cairns/20220601_colour-leaves.jpg"
+    "title": "Australian Arcadia",
+    "posterSrc": "images/australia-cairns/20220601_colour-leaves.jpg",
+    "country": "Australia"
   },
   {
     "slug": "italy-dolomites",
-    "title": "Alpine switchbacks",
-    "posterSrc": "images/italy-dolomites/20250606_dolomites-rolling-hills.jpg"
+    "title": "Alpine Switchbacks",
+    "posterSrc": "images/italy-dolomites/20250606_dolomites-rolling-hills.jpg",
+    "country": "Italy"
   },
   {
     "slug": "italy-venice",
     "title": "City of Trade",
-    "posterSrc": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg"
+    "posterSrc": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg",
+    "country": "Italy"
   },
   {
     "slug": "scratch-notes",
     "title": "Unfinished thoughts",
-    "posterSrc": ""
+    "posterSrc": "",
+    "country": ""
   }
 ]

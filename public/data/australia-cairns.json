@@ -1,26 +1,30 @@
 {
-  "albumTitle": "Tropical Australia",
+  "albumTitle": "Australian Arcadia",
   "blocks": [
     {
       "type": "text",
-      "content": "Cherry blossom came late this year. Tourists, who had bagged expensively hot accomodation months in advance, squinted at the bare branches. The tourists went home, and two weeks later blossoms sprang to life."
+      "content": "The joke goes that everything in Australia wants to kill you. I never felt that in Sydney: snakes stayed hidden; huntsmen behaved more like cats than killers; lifeguards stepped on jellyfish to prove they wouldn’t hurt you."
     },
     {
       "type": "photoCluster",
       "photos": [
         {
           "src": "images/australia-cairns/20220531_daytime-palms.jpg",
-          "caption": ""
+          "caption": "Rex Smeale Park before sunset"
         },
         {
           "src": "images/australia-cairns/20220601_palm-canopy.jpg",
-          "caption": ""
+          "caption": "Palms crowding the border of four mile beach"
+        },
+        {
+          "src": "images/australia-cairns/20220601_colour-leaves.jpg",
+          "caption": "Crotons line the streets: Australian fauna is lethal yet the flora is all houseplants"
         }
       ]
     },
     {
       "type": "text",
-      "content": "As night falls the beach is lined by shadowed trees. Periodically groups quietly emerge to set up sunset picnics."
+      "content": "The danger feels much closer up north. Serene white‑sand beaches were marked by the occasional crocodile snout near the estuaries. Beach signs warned about Irukandji jellyfish and cardiac arrest."
     },
     {
       "type": "photoCluster",
@@ -30,14 +34,18 @@
           "caption": ""
         },
         {
-          "src": "images/australia-cairns/20220531_pale-sunset.jpg",
-          "caption": ""
-        },
-        {
           "src": "images/australia-cairns/20220531_yellow-sunset.jpg",
           "caption": ""
         }
       ]
+    },
+    {
+      "type": "text",
+      "content": "As night falls the beach is lined by shadowed trees and bats. Periodically groups quietly emerge from the darkness to set up sunset picnics."
+    },
+    {
+      "type": "fieldnotes",
+      "content": "Port Douglas had more than palms: crocodiles along the riverbanks; golden orb-weaver spiders suspended between trees; cockatoos in the canopy; cassowaries with chicks leading our car down dirt tracks; the reef rising in cliffs of coral. The sightings were brief, so you get the palms."
     }
   ]
 }
