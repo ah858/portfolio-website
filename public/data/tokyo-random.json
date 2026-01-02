@@ -3,40 +3,42 @@
   "blocks": [
     {
       "type": "text",
-      "content": "Walking around Tokyo."
+      "content": "I arrived in Tokyo with five days’ notice. I didn’t even know where the city sat on a map until I was on the plane. I expected temples and cascading bonsai gardens, pagodas and torii gates between wooden buildings. Instead I was greeted by a formidable maze of rectangular, grey buildings. It became apparent the real Tokyo is vertical and indoors. Exploration required looking up, stepping into tight el,evator shafts, and finding hidden worlds of underground and overground malls. Streets I assumed to be deserted were full of life once indoors."
     },
     {
       "type": "photoCluster",
       "photos": [
-        {
-          "src": "images/tokyo-random/20240803_tokyo-skytree.jpg",
-          "caption": "Crosswalk lines stretch into shadow."
-        },
-        {
-          "src": "images/tokyo-random/20240728_tokyo-fish.jpg",
-          "caption": "Closed storefront catching the cool blue hour."
-        },
-        {
-          "src": "images/tokyo-random/20240706_tokyo-highway.jpg",
-          "caption": "Window plants behind fogged glass."
-        },
-        {
-          "src": "images/tokyo-random/20231124_215503-01-02.jpeg",
-          "caption": ""
-        },
-        {
-          "src": "images/tokyo-random/20240907_tokoy-birdseye-train.jpg",
-          "caption": ""
-        },
-        {
-          "src": "images/tokyo-random/20231130_tokyo-ginko.jpeg",
-          "caption": ""
-        },
-        {
-          "src": "images/tokyo-random/20240907_tokyo-wework.jpg",
-          "caption": ""
-        }
+        { "src": "images/tokyo-random/20240907_tokoy-birdseye-train.jpg", "caption": "" },
+        { "src": "images/tokyo-random/20240907_tokyo-wework.jpg", "caption": "" },
+        { "src": "images/tokyo-random/20240803_tokyo-skytree.jpg", "caption": "" }
       ]
+    },
+    {
+      "type": "text",
+      "content": "The metro is quiet, so I learned to be quiet too. In the early days I could go a whole weekend without speaking. Tokyo streets are orderly and peaceful during daylight. People dress well and don't eat on the streets. That said, I’d still sneak in food while walking. When eating at home, I stuck to Japanese groceries: tofu, oyster mushrooms, miso soup, and whatever sashimi I could buy at Hanamasa."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/tokyo-random/20240728_tokyo-fish.jpg", "caption": "" },
+        { "src": "images/tokyo-random/20240421_skytree_asakusa.jpeg", "caption": "" },
+        { "src": "images/tokyo-random/20241103_toyo_nakano.jpg", "caption": "" },
+        { "src": "images/tokyo-random/20240706_tokyo-highway.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "In the first few months we had an earthquake in the office. Everything was gently swaying, like being on a ship. Hanging lights swung in rhythmic arcs and my chair slid across the floor. I was trying to work out if we should evacuate or get under the desk. Everyone else just kept working. Another earthquake hit at home during the night. I woke up to my phone’s emergency alarm and waited for the movement. The building started to creak. I rolled myself into the duvet. The quake kept rolling me around like a padded burrito."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/tokyo-random/20231130_tokyo-ginko.jpeg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "With time, urban Tokyo grew on me. Where I once saw drab concrete, I started to see clean and harmonious streets. The buildings never changed, but what felt noisy became a steady and familiar rhythm."
     }
   ]
 }
