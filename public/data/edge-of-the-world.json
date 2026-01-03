@@ -1,0 +1,27 @@
+{
+  "albumTitle": "Edge of the World",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Placeholder text."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/saudi-edgeofWorld/20251017_riyadh_driving_west.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Placeholder text."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/saudi-edgeofWorld/20250510_riyadh_pillars_eow.jpg", "caption": "" },
+        { "src": "images/saudi-edgeofWorld/20250510_riyadh_long_cliffs_eow.jpg", "caption": "" },
+        { "src": "images/saudi-edgeofWorld/20250510_riyadh_people_eow.jpg", "caption": "" }
+      ]
+    }
+  ]
+}

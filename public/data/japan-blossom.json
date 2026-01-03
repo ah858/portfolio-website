@@ -9,11 +9,11 @@
       "type": "photoCluster",
       "photos": [
         {
-          "src": "images/japan/azabudai-blossom.jpeg",
+          "src": "images/japan-blossom/azabudai-blossom.jpeg",
           "caption": "Early blossoms perfectly hit the opening of Azabudai Hills"
         },
         {
-          "src": "images/japan/20240317_hakone-plum.jpeg",
+          "src": "images/japan-blossom/20240317_hakone-plum.jpeg",
           "caption": "A lone plum in Hakone's Open Air Museum"
         }
       ]
@@ -26,11 +26,11 @@
       "type": "photoCluster",
       "photos": [
         {
-          "src": "images/japan/20240323_kyoto-temple-blossom.jpg",
+          "src": "images/japan-blossom/20240323_kyoto-temple-blossom.jpg",
           "caption": "Early cherries in Kyoto"
         },
         {
-          "src": "images/japan/tokyo-blossom.jpeg",
+          "src": "images/japan-blossom/tokyo-blossom.jpeg",
           "caption": "A short spring time walk from my apartment"
         }
       ]

@@ -1,0 +1,39 @@
+{
+  "albumTitle": "Weekend in Jeddah",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Placeholder text."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/saudi-jeddah/20250425_jeddah_carpet.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Placeholder text."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/saudi-jeddah/20250425_jeddah_blue_windows.jpg", "caption": "" },
+        { "src": "images/saudi-jeddah/20250425_jeddah_brown_windows.jpg", "caption": "" },
+        { "src": "images/saudi-jeddah/20250425_jeddah_green_windows.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Placeholder text."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/saudi-jeddah/20250425_jeddah_pot_building.jpg", "caption": "" },
+        { "src": "images/saudi-jeddah/20250425_jeddah_street_sofa.jpg", "caption": "" },
+        { "src": "images/saudi-jeddah/20250425_jeddah_bit_cat.jpg", "caption": "" }
+      ]
+    }
+  ]
+}

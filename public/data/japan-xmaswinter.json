@@ -1,0 +1,19 @@
+{
+  "albumTitle": "Snow Monsters",
+  "blocks": [
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/japan-XmasWinter/20241221_niseko_mountain.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241225_sendai_buddha_close.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241225_sendai_buddha_far.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241227_ginzan_town.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241228_zao_lone_person.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241228_zao_person_left.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241229_zao_bus_home.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241229_zao_tori.jpg", "caption": "" },
+        { "src": "images/japan-XmasWinter/20241229_zao_train_home.jpg", "caption": "" }
+      ]
+    }
+  ]
+}
