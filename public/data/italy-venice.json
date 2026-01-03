@@ -3,26 +3,37 @@
   "blocks": [
     {
       "type": "text",
-      "content": "Streets of venice."
+      "content": "This summer I read Peter Frankopan’s The Silk Roads. It surprised me that the centre of the world wasn’t always in the West. Thirteenth‑century Venice rose on trade with powerful cities to the east."
     },
     {
       "type": "photoCluster",
       "photos": [
         { "src": "images/italy-venice/20250608_venice-arch-color-building.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-landscape-buildings.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Venice's canals are only the surface of its maritime power. I was told the city could output a warship every day in its golden era. The buildings read like an architectural ledger: Byzantine domes, stout Romanesque walls, and ornate Gothic faces."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
+        { "src": "images/italy-venice/20250608_venice-domes.jpg", "caption": "" },
+        { "src": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg", "caption": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Nearly a millennium later, the riches are still obvious. Marble spreads like grass. Rows of symmetrical arches line the squares. Tourists are the new merchants of trade: bartering for gondola rides, or with seagulls to get their food back."
+    },
+    {
+      "type": "photoCluster",
+      "photos": [
         { "src": "images/italy-venice/20250608_venice-boat-arrival.jpg", "caption": "" },
         { "src": "images/italy-venice/20250608_venice-boat-haggling.jpg", "caption": "" },
-        { "src": "images/italy-venice/20250608_venice-canal-cathdral-portrait.jpg", "caption": "" },
-        { "src": "images/italy-venice/20250608_venice-domes.jpg", "caption": "" },
-        { "src": "images/italy-venice/20250608_venice-golden-hour-dome.jpg", "caption": "" },
-        { "src": "images/italy-venice/20250608_venice-landscape-buildings.jpg", "caption": "" },
         { "src": "images/italy-venice/20250608_venice-narrow-window-out.jpg", "caption": "" },
-        { "src": "images/italy-venice/20250608_venice-waterway-alley.jpg", "caption": "" },
-        { "src": "images/italy-venice/dscf0218-venice-realto_bridge.jpg", "caption": "" },
-        { "src": "images/italy-venice/dscf0265_venice_distant_domes_landscape.jpg", "caption": "" },
-        { "src": "images/italy-venice/dscf0282_venice_domes_backlit.jpg", "caption": "" },
-        { "src": "images/italy-venice/dscf0294_venice_academia_bridge.jpg", "caption": "" },
-        { "src": "images/italy-venice/venice-canal-dome-open.jpg", "caption": "" }
-      ]
+        { "src": "images/italy-venice/20250608_venice-waterway-alley.jpg", "caption": "" }      ]
     }
   ]
 }
